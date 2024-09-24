@@ -1,0 +1,6 @@
+@Hesabdanan_HostAddress = http://localhost:5032
+
+GET {{Hesabdanan_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
